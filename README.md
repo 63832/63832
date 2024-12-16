@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on school stuff
-- 🌱 I’m currently learning git
+- 🔭 I’m currently working on school stuff and just finished vistrac (available on web store)
+- 🌱 I’m currently learning git through tutorials 
 -->
